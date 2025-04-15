@@ -1,89 +1,59 @@
+# Exercícios de Java
+
 1. Fazer um programa para ler o Nome e o Sobrenome do usuário e apresentar o nome completo na tela.
-Exemplos de Entrada
-Exemplos de Saída
-Nome: Cida
-Sobrenome: Castello
-Cida Castello
-Nome: Airton
-Sobrenome: Senna
-Airton Senna
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| Nome: Cida<br>Sobrenome: Castello | Cida Castello |
+| Nome: Airton<br>Sobrenome: Senna | Airton Senna |
+
 2. Fazer um programa para ler o Nome Completo do usuário e apresentar na tela uma
 mensagem e o nome digitado.
-Exemplos de Entrada
-Exemplos de Saída
-Nome Completo: Cida Castello
-Olá, Cida Castello, você está no curso de
-Java para Iniciantes!
-Nome Completo: Airton Senna
-Olá, Airton Senna, você está no curso de
-Java para Iniciantes!
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------  | ----------------- |
+| Nome Completo: Cida Castello | Olá, Cida Castello, você está no curso de Java para Iniciantes! |
+| Nome Completo: Airton Senna | Olá, Airton Senna, você está no curso de Java para Iniciantes! |
+
 3. Fazer um programa para ler o Nome, o Sobrenome e a Idade do usuário e apresentar
 o nome completo e a idade na tela.
-Exemplos de Entrada
-Exemplos de Saída
-Nome: Cida
-Sobrenome: Castello
-Idade: 35
-Seu nome é Cida Castello e você tem 35
-anos
-Nome: Airton
-Sobrenome: Senna
-Idade: 58
-Seu nome é Airton Senna e você tem 58
-anos
-Exercícios de Linguagem Java
-3/10
-Desafio
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| Nome: Cida<br>Sobrenome: Castello<br>Idade: 35 | Seu nome é Cida Castello e você tem 35 anos |
+| Nome: Airton<br>Sobrenome: Senna<br>Idade: 58 | Seu nome é Airton Senna e você tem 58 anos |
+
 4. Fazer um programa para ler dois números inteiros (do teclado) e apresentar a soma
 desses números na tela.
-Exemplos de Entrada
-Exemplos de Saída
-6
-2
-Soma = 8
--78
-10
-Soma = -68
-Desafio
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| 6<br>2 | Soma = 8 |
+| -78<br>10 | Soma = -68 |
+
 5. Fazer um programa para apresentar a soma, subtração, multiplicação e divisão de
 dois números inteiros.
-Exemplos de Entrada
-Exemplos de Saída
-6
-2
-Soma = 8
-Subtração = 4
-Multiplicação = 12
-Divisão = 3
--78
-10
-Soma = -68
-Subtração = -88
-Multiplicação = -780
-Divisão = -7
-Exercícios de Linguagem Java
-4/10
-Desafio
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| 6<br>2| Soma = 8<br>Subtração = 4<br>Multiplicação = 12<br>Divisão = 3 |
+| -78<br>10 | Soma = -68<br>Subtração = -88<br>Multiplicação = -780<br>Divisão = -7 |
+
 6. Fazer um programa para apresentar a soma, subtração, multiplicação e divisão de
 dois números reais.
-Exemplos de Entrada
-Exemplos de Saída
-5,5
-2,0
-Soma = 7,5
-Subtração = 3,5
-Multiplicação = 11,0
-Divisão = 2,75
--4
-1,5
-Soma = -2,5
-Subtração = -5,5
-Multiplicação = -6,0
-Divisão = -2,6666....
+
+| Exemplos de Entrada | Exemplos de Saída |
+| ------------------- | ----------------- |
+| 5,5<br>2,0 |Soma = 7,5<br>Subtração = 3,5<br>Multiplicação = 11,0<br>Divisão = 2,75 |
+| -4<br>1,5 | Soma = -2,5<br>Subtração = -5,5<br>Multiplicação = -6,0<br>Divisão = -2,6666.... |
+
 7. Fazer um programa que calcule a área e o comprimento de uma circunferência.
 Fórmulas:
-𝐴 = 𝜋𝑟2
-𝐴� = 2𝜋𝑟
+
+$A = \pi r^2$
+
+$A = 2 \pi r$
+
 Exemplos de Entrada
 Exemplos de Saída
 r = 1
