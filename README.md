@@ -9,7 +9,7 @@ Boa sorte!
 ## Tabela de Conteúdos
 O ficheiro [enunciado.md](enunciado.md) tem o enunciado com os vários exercícios para serem realizados.
 
-Caso precise da solução, encontram-se nos ficheiros .java, por exemplo [ex3_calc2nums.java](ex3_calc2nums.java) é a solução do exercício 3.
+Caso precise da solução, encontram-se nos ficheiros .java, por exemplo [ex09_desafioVolumeEsfera.java](ex09_desafioVolumeEsfera.java) é a solução do exercício 3.
 
 ## Como começo?
 Basta começar a programar com o programa recomandado por um professor de Java.
